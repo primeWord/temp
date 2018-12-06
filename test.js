@@ -1,1 +1,1 @@
-alert("github 에서 test.js 로드");
+alert("github 에서 test.js 로드1");
