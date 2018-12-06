@@ -1,1 +1,1 @@
-alert("github 에서 test.js 로드6");
+alert("https://primeword.github.io/temp/test.js 로드6");
