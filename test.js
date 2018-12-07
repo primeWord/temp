@@ -1,1 +1,1 @@
-alert("https://primeword.github.io/temp/test.js 로드17");
+alert("https://primeword.github.io/temp/test.js 로드18");
